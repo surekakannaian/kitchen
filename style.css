@@ -341,6 +341,11 @@ footer small{
     header{
         justify-content: center;
     }
+    .side{
+        position: absolute;
+        top: 10%;
+        left: 55.5%;
+    }
     .alert{
         top: 9.5%;
     }
